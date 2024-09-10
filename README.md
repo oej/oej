@@ -1,9 +1,10 @@
 ## The OEJ page
 
-Some projects I'm currently involved in:
+Some GIThub projects I'm currently involved in:
 
 - Kamailio
 - DNS tapir
 - Transparency Exchange API
+- IETF Dance working group
 
 In the past, I've been very active in Asterisk.org.
