@@ -6,5 +6,6 @@ Some GIThub projects I'm currently involved in:
 - DNS tapir
 - OWASP Transparency Exchange API
 - IETF Dance working group
+- SOFTHSM
 
 In the past, I've been very active in Asterisk.org.
